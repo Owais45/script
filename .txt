@@ -1,0 +1,4 @@
+Flask==2.2.2
+pytube==12.1.0
+whisper==1.0
+moviepy==1.0.3
